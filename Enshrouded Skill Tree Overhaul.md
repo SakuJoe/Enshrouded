@@ -72,7 +72,7 @@ Ideally, I would like to see the Greatsword have a standard two-hit combo with d
 
 Parrying an attack bashes the enemy, briefly exposing its back for 1s.
 
-This duration is extended by +1s if the bashed enemy is struck from behind with a one-handed or two-handed weapon *(Can be triggered only once. Maximum duration 1+1s)*.
+This duration is extended by +1s if the bashed enemy is struck from behind with a one-handed or two-handed weapon *(Duration can be extended only once)*.
 
 Additionally, arrows can now be parried. Parried arrows are reflected back toward the enemy who fired them.
 
@@ -427,6 +427,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
