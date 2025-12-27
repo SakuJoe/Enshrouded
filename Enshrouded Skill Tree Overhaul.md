@@ -172,7 +172,7 @@ Increases *attack speed* with one-handed weapons, including maces. (Mace basic a
 
 * **SHOVE** *(**new node** at the end of the Warrior tree, cost 3 skill points. Stamina cost: 50).*
 
-While using a *one-handed* or *two-handed weapon*, attacking while holding *block* performs a short-range **Shove**. Deals minor damage and puts enemies hit off balance, slightly increasing their *stun meter*.
+While using a *one-handed* or *two-handed weapon*, attacking while holding *block* performs a short-range **Shove**. *(designed to move couple meters forwards, offering melee player a way to deal with bodyblock)* Deals minor damage and puts enemies hit off balance, slightly increasing their *stun meter*. *(Stamina cost is there to avoid soft CC spam)*
 
 If **Whirlwind Crescendo** is unlocked, using **Shove** before **Whirlwind Crescendo** is fully charged *cancels* its charge.
 
@@ -427,6 +427,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
