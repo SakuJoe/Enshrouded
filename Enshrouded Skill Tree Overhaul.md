@@ -306,6 +306,7 @@ Climbing cost 50% less stamina. Climbing ***and*** scale traversal are faster. *
 
 
  ⦁	**REBOUND**
+ 
 First perk remain unchanged and cost 2 skill points. Second and third perks are blend together, stamina regenerations add up, but cost is only 4 skill points. *(This was too much of a skill point sink)*. 
 
 
@@ -430,6 +431,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
