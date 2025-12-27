@@ -20,6 +20,8 @@ Based on community feedback observed on Discord, several recurring issues were a
 
 Finally, some gem interactions were integrated directly into the skill tree. The tank-related interactions, in particular, feel fun, strong and thematically coherent. That said, the number of gem synergies is still limited, and further ideas could be explored. Community feedback will play an important role in determining whether and how these interactions should be expanded in the future.
 
+*Keep in mind that there are other small tweaks I had in mind that are not described in these notes. This includes things like minor nodes (Constitution, Endurance, Intelligence, etc.), which were also rearranged so that certain branches of the skill tree no longer force players to spend skill points on nodes that are useless for their build. For example, the Athlete branch is now almost entirely Constitution-focused, while Survivor is fully Endurance-oriented*.
+
 
 
 I hope this work will provide new ideas to the Devs and help them to build this great game.
@@ -427,6 +429,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
