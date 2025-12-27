@@ -102,7 +102,7 @@ Replenished time cannot exceed the threshold set by Gem of Hopeful Embers.
 
 * **CRASH DOWN ATTACK**
 
-*Additionally*, when a staff is equipped with **Gem of Meteoric Impact**, **Crash Down Attack** *becomes* **Greater Meteoric Impact** *(This uses the same animation as Crash Down Attack but adds the gem’s meteor effect.)*. Repels enemies on impact *(same as* **Crash Down Attack**)and deals fire damage. Damage and mana cost are based on the highest equipped fire spell. Can only be triggered after **Double Jump**. Scales with intelligence.
+*Additionally*, when a staff is equipped with **Gem of Meteoric Impact**, **Crash Down Attack** *becomes* **Greater Meteoric Impact** *(This uses the same animation as Crash Down Attack but adds the gem’s meteor effect.)*. Repels enemies on impact *(same as* **Crash Down Attack**) and deals fire damage. Damage and mana cost are based on the highest equipped fire spell. Can only be triggered after **Double Jump**. Scales with intelligence.
 
 
 
@@ -427,6 +427,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
