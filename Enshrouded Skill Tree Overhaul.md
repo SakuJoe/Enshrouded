@@ -338,7 +338,7 @@ Climbing cost 50% less stamina. Climbing ***and*** scale traversal are faster. *
 
 *Do now work on bosses.*
 
-<b>Terror </b>now cost 10 stamina per enemy stunned with **Blink Maneuver**.
+<b>Terror </b>now cost 10 extra stamina per enemy stunned with **Blink Maneuver**.
 
 
 
@@ -429,6 +429,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
