@@ -94,9 +94,7 @@ When triggered this way, **Whirlwind Crescendo** deals 80% of its normal damage.
 
 Grants immunity to time-sink effects from shroud mushroom clouds, Fell Vicious Vines, and Fell Ranger shroud bombs.
 
-When Gem of Hopeful Embers is equipped, time is replenished while standing in these areas of effect, and bonus damage is gained based on time spent within them
-
-(+1% fire damage per second, up to 10% maximum) until the next attack.
+When Gem of Hopeful Embers is equipped, time is replenished while standing in these areas of effect, and bonus damage is gained based on time spent within them (+1% fire damage per second, up to 10% maximum) until the next attack.
 
 Replenished time cannot exceed the threshold set by Gem of Hopeful Embers.
 
@@ -429,6 +427,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
