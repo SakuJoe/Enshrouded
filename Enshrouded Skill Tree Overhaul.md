@@ -376,7 +376,7 @@ Additionally, **Begone!** can now be used on *Hollow Minion*, *destroying* it. D
 
 * **RADIANT AURA**
 
-When **Gem of Burning** is equipped on a staff, each burn tic triggered by a *fire spell* restores 1 mana.
+*Now hit all enemies, not just Fells*. When **Gem of Burning** is equipped on a staff, each burn tic triggered by a *fire spell* restores 1 mana.
 
 *Additionally*, *Hollow Minion* also benefits **Radiant Aura** and **Sun Aura**. *Also scales with intelligence.* **Radiant Aura** *and* **Sun Aura** *cannot crit when apply to* *Minions.*
 
@@ -431,6 +431,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
