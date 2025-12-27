@@ -154,7 +154,7 @@ Increases *attack speed* with one-handed weapons, including maces. (Mace basic a
 
 
 
-* **VETERAN** *is now linked to* **BUTCHER***,* **HAMMER TIME***,* **PIERCE***, and* **SWIFT STRIKE***, reverting its previous position in the warrior line*.
+* **VETERAN** *is now linked to* **BUTCHER**, **HAMMER TIME**, **PIERCE**, and **SWIFT STRIKE**, reverting its previous position in the warrior line.
 
 
 
@@ -188,7 +188,7 @@ When a shield is equipped, block value is increased by up to 100% *(Scales with 
 
 **Arch Nemesis** is *always active*. *If unlocked*, **Warden** is also *always* active.
 
-When **Gem of Cold Composure** is equipped and using a shield, triggering *Ice Explosion* also triggers **Shockwave** and cost 20 mana per enemy hit. Triggering **Shockwave** this way *do not* refund stamina. *Ice Explosion* now have the same radius as **Shockwave**. *(Requires* **Shockwave** *to be unlocked*)*.*
+When **Gem of Cold Composure** is equipped and using a shield, triggering *Ice Explosion* also triggers **Shockwave** and cost 20 mana per enemy hit. Triggering **Shockwave** this way *do not* refund stamina. *Ice Explosion* now have the same radius as **Shockwave**. *(Requires* **Shockwave** *to be unlocked*).
 
 
 
@@ -427,4 +427,5 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
