@@ -132,7 +132,7 @@ Now also applies to *daggers*.
 
 
 
-* **BLOOD WARRIOR** -> *Swap place with* **FEAST**
+* **BLOOD WARRIOR** -> *Swaps place with* **FEAST**
 
 **Feast** *health bonus is increased to 25% up from 15%.*
 
@@ -427,6 +427,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
