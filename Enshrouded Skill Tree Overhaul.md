@@ -10,7 +10,7 @@ While it is natural for players to want their favorite builds to remain powerful
 
 
 
-Existing builds are intended to remain viable, even though some skills have been adjusted or nerfed in this version. These changes mainly target excessive stun-focused strategies that trivialize difficulty, even in Hardcore mode, through repetitive mechanics such as Explosive Arrows or Chain Lightning. In exchange, revised versions of these builds require more deliberate execution while offering greater rewards for skilled play. Naturally, this iteration is not perfectly balanced, as many of these changes were designed without the ability to properly test them.
+Existing builds are intended to remain viable, even though some skills have been adjusted or nerfed in this version. These changes mainly target excessive stun-focused strategies that trivialize difficulty, even in Hardcore mode, through repetitive mechanics such as Explosive Arrows or Chain Lightning + Terror. In exchange, revised versions of these builds require more deliberate execution while offering greater rewards for skilled play. Naturally, this iteration is not perfectly balanced, as many of these changes were designed without the ability to properly test them.
 
 
 
@@ -429,6 +429,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
