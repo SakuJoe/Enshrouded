@@ -198,7 +198,7 @@ When **Gem of Cold Composure** is equipped and using a shield, triggering *Ice E
 
 
 
-* **KICK ->** *swaps with* **SILENT STRIDE**, **SILENT STRIDE** *swaps with* **BACKSTAB DAMAGE**, **BACKSTAB DAMAGE** *swap with* **KICK***.*
+* **KICK ->** *swaps with* **SILENT STRIDE**, **SILENT STRIDE** *swaps with* **BACKSTAB DAMAGE**, **BACKSTAB DAMAGE** *swap with* **KICK**.
 
 ***.*  Kick** *(Cost unchanged).* **Silent Stride** *(Now cost 2 skill points).* **Backstab Damage** *(Now cost 3 skill points).*
 
@@ -210,7 +210,7 @@ When **Gem of Cold Composure** is equipped and using a shield, triggering *Ice E
 
 Also applies to the special kick triggered after a dagger parry.
 
-**Kick** also scales with intelligence now. **Kick** no longer works one-handed or two-handed weapons *(See* **Shove***).*
+**Kick** also scales with intelligence now. **Kick** no longer works one-handed or two-handed weapons *(See* **Shove**).
 
 
 
@@ -280,9 +280,9 @@ Killing an enemy with **Fatal Blow** restores +100hp and +50mana.
 
 * **VUKAH LANGUAGE** -> *renamed* **THEFT**
 
-*Skill reworked*: When an enemy is *stunned* or *overpowered*, ***holding*** \[E] (like 'pick up' for housing) steals items. Only humanoids enemies among Vukahs, Fells, Scavengers and Draks can be stolen. Loot depends on enemy race (e.g. Vukah) and type (Melee, range, healer, etc).
+*Skill reworked*: When an enemy is *stunned* or *overpowered*, ***holding*** \[E] (like 'pick up' for housing) steals items. Only humanoids enemies among Vukahs, Fells, Scavengers and Draks can be stolen. Loot depends on enemy race (e.g.: Vukah) and type (Melee, range, healer, etc).
 
-*Items*  must be valuable for the players to loot as they may force the player to choose between  two actions: **Theft** or **Merciless / Fatal Blow**
+*Items*  must be valuable for the players to loot as they may force the player to choose between  two actions: **Theft** or **Merciless / Fatal Blow** (e.g.: Potions, Arrows, Scrolls, etc)
 
 
 
@@ -427,5 +427,6 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
