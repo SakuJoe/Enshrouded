@@ -180,15 +180,15 @@ If **Whirlwind Crescendo** is unlocked, using **Shove** before **Whirlwind Cresc
 
 * **UNSHAKEN NEMESIS** *(**new node**, after* **ARCH NEMESIS**). (Cost 5 skill points)
 
-When a shield is equipped, block value is increased by up to 100% *(Scales with constitution*). If **Shockwave** is unlocked, triggering it refunds 5 stamina per enemy hit.
+When a shield or a ward is equipped, block value is increased by up to 100% *(Scales with constitution*). If **Shockwave** is unlocked, triggering it refunds 5 stamina per enemy hit.
 
 
 
 * **NEMESIS COMPOSURE** *(**new node** linked to* **UNSHAKEN NEMESIS**). (Cost 4 skill points)
 
-**Arch Nemesis** is *always active*. *If unlocked*, **Warden** is also *always* active.
+**Arch Nemesis** is *always active*. If unlocked, **Warden** and **Tower** are also *always* active *(Essentilly enemies number restriction is now 1)*.
 
-When **Gem of Cold Composure** is equipped and using a shield, triggering *Ice Explosion* also triggers **Shockwave** and cost 20 mana per enemy hit. Triggering **Shockwave** this way *do not* refund stamina. *Ice Explosion* now have the same radius as **Shockwave**. *(Requires* **Shockwave** *to be unlocked*).
+When **Gem of Cold Composure** is equipped and using a shield or a ward, triggering *Ice Explosion* also triggers **Shockwave** and cost 20 mana per enemy hit. Triggering **Shockwave** this way *do not* refund stamina. *Ice Explosion* now have the same radius as **Shockwave**. *(Requires* **Shockwave** *to be unlocked*).
 
 
 
@@ -431,6 +431,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
