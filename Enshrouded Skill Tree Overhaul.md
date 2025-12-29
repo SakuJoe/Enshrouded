@@ -186,7 +186,7 @@ When a shield or a ward is equipped, block value is increased by up to 100% *(Sc
 
 * **NEMESIS COMPOSURE** *(**new node** linked to* **UNSHAKEN NEMESIS**). (Cost 4 skill points)
 
-**Arch Nemesis** is *always active*. If unlocked, **Warden** and **Tower** are also *always* active *(Essentilly enemies number restriction is now 1)*.
+**Arch Nemesis** is *always active*. If unlocked, **Warden** and / or **Tower** are also *always* active *(Essentilly enemies number restriction is now 1)*.
 
 When **Gem of Cold Composure** is equipped and using a shield or a ward, triggering *Ice Explosion* also triggers **Shockwave** and cost 20 mana per enemy hit. Triggering **Shockwave** this way *do not* refund stamina. *Ice Explosion* now have the same radius as **Shockwave**. *(Requires* **Shockwave** *to be unlocked*).
 
@@ -431,6 +431,7 @@ While airborne, targeting a *Hollow Minion* allows pulling toward it using \[E].
 * **MERCILESS ATTACK**
 
 Wands also have a **Merciless Attack** now. *(Avada Kedavra animation?).*
+
 
 
 
